@@ -5,7 +5,7 @@
   </head>
   <body>
     <?php
-      print("Welcome to FL0");
+      print("Welcome to FL0!");
     ?>
   </body>
 </html>
